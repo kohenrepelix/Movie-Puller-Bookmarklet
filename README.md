@@ -1,5 +1,5 @@
 # Movie-Puller-Bookmarklet
-This bookmarklet only works one 123movies. When you play a video, inject the bookmarklet, it will copy the video URL and copy it to your clipboard
+This bookmarklet only works on 123movies. When you play a video, inject the bookmarklet, it will copy the video URL and copy it to your clipboard
 
 1: Go to https://0123movie.net
 
@@ -8,3 +8,5 @@ This bookmarklet only works one 123movies. When you play a video, inject the boo
 3: Play the movie
 
 4: Inject the bookmarklet
+
+(Language: Javascript)
